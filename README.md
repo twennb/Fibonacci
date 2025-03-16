@@ -1,4 +1,4 @@
-# Fibonacci
+# Fibonacci Generator
 Generates the Fibonacci sequence up to a user defined number.
 
 ## Possible Improvements
